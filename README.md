@@ -1,7 +1,7 @@
 # LearningArduino
 # How to use VSCode developping Arduino program ?
 
-> ## 1. Download Softwares
+> ## 1. Softwares Download
 >> ### a. Arduino IDE 1.8.12
 >>> Download : https://www.arduino.cc/en/Main/Software
 
@@ -12,4 +12,5 @@
 
 >>> Choice Windows .zip 64bit
 
-> ## 2. Arduino IDE Installation
+> ## 2. Installation
+>> ### Arduino Install
